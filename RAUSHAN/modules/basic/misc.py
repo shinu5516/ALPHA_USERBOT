@@ -17,14 +17,14 @@ if ALIVE_TEXT:
    txt = ALIVE_TEXT
 else:
     txt = (
-        f"** ⚡️ 𝗔𝗟𝗣𝗛𝗔 ⚡️ **\n\n"
+        f"** 𝙆𝙄𝙍𝙈𝘼𝘿𝘼 **\n\n"
         f"❏ **𝐕ᴇʀsɪᴏɴ**: `2.1`\n"
         f"├• **𝐔ᴘᴛɪᴍᴇ**: `{str(datetime.now() - START_TIME).split('.')[0]}`\n"
         f"├• **𝐏ʏᴛʜᴏɴ**: `{python_version()}`\n"
         f"├• **𝐏ʏʀᴏɢʀᴀᴍ**: `{__version__}`\n"
-        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [|| ˹𝗔ʟᴘʜᴀ 𝗪ᴏʀʟᴅ˼ ||](t.me/WORLD_ALPHA)\n"
-        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝗔𝗟𝗣𝗛𝗔](t.me/ALPHA_DPZ_WORLD)\n"
-        f"└• **𝐌ᴀsᴛᴇʀ**: [𝗥𝗔𝗨𝗦𝗛𝗔𝗡](t.me/ll_ALPHA_BABY_lll)"        
+        f"├• **𝐒ᴜᴘᴘᴏʀᴛ-𝐂ʜᴀᴛ**: [|| ˹X1BOTS˼ ||](t.me/NLTRIDE)\n"
+        f"├• **𝐔ᴘᴅᴀᴛᴇs**: [𝙆𝙄𝙍𝙈𝘼𝘿𝘼](t.me/X1OWNER)\n"
+        f"└• **𝐌ᴀsᴛᴇʀ**: [𝙆𝙄𝙍𝙈𝘼𝘿𝘼](t.me/X1OWNER)"        
     )
 
 @Client.on_message(
@@ -57,12 +57,12 @@ async def repo(bot: Client, message: Message):
     await asyncio.sleep(1)
     await message.edit("Fetching Source Code.....")
     await asyncio.sleep(1)
-    await message.edit("Here is repo: \n\n\nhttps://github.com/TEAMPURVI/ALPHA_USERBOT\nFork & Give an ⭐")
+    await message.edit("Here is repo: \n\n\n\nhttps://t.me/NlTRIDEFork & Give an ⭐")
 
 
 @Client.on_message(filters.command("creator", ".") & filters.me)
 async def creator(bot: Client, message: Message):
-    await message.edit("https://gitHub.com/TEAMPURVI")
+    await message.edit("https://t.me/NlTRIDE")
 
 
 @Client.on_message(filters.command(["uptime", "up"], ".") & filters.me)
