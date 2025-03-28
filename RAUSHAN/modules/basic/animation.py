@@ -168,7 +168,7 @@ async def pikachu(client: Client, message: Message):
 async def hello_world(client: Client, message: Message):
     mg = await edit_or_reply(
         message,
-" ᴀʙᴇ ɢᴀɴᴅᴜ😂😂...ᴘᴀʜᴄʜᴀɴᴀ ᴀʟᴘʜᴀ ᴘᴀᴘᴀ ʜᴜ ᴛᴜᴍʜᴀʀᴀ👻 ",
+" ᴀʙᴇ ɢᴀɴᴅᴜ😂😂...ᴘᴀʜᴄʜᴀɴᴀ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴘᴀᴘᴀ ʜᴜ ᴛᴜᴍʜᴀʀᴀ👻 ",
     )
 
 
@@ -190,7 +190,7 @@ async def hello_world(client: Client, message: Message):
     await asyncio.sleep(0.4)
     await mg.edit("ᴛᴏᴘɪ")
     await asyncio.sleep(0.3)
-    await mg.edit(" ᴊᴏʀ sᴇ ʙᴏʟᴏ ᴀʟᴘʜᴀ ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ💘")
+    await mg.edit(" ᴊᴏʀ sᴇ ʙᴏʟᴏ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ💘")
 
 
 @Client.on_message(filters.command("brain", ".") & filters.me)
@@ -254,26 +254,26 @@ async def hajqag(client: Client, message: Message):
         return
     animation_interval = 3
     animation_ttl = range(0, 18)
-    await message.edit("Calling ㅤ ᴀʟᴘʜᴀ (𝐁ᴀᴀᴘ of telegram)......")
+    await message.edit("Calling ㅤ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ (𝐁ᴀᴀᴘ of telegram)......")
     animation_chars = [
         "`Connecting To Telegram #_ᴀʟᴘʜᴀ`",
         "`Call Connected.`",
-        "`ᴀʟᴘʜᴀ: Hello ʙᴏʟ ᴍᴄ. ᴋᴏɴ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ ʜᴀɪ ᴛᴜ...ʙsᴅᴋᴇ ᴋʏᴀ ᴋᴀᴀᴍ ʜᴀɪ ᴛᴇʀᴀ..?`",
+        "`➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱: Hello ʙᴏʟ ᴍᴄ. ᴋᴏɴ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ ʜᴀɪ ᴛᴜ...ʙsᴅᴋᴇ ᴋʏᴀ ᴋᴀᴀᴍ ʜᴀɪ ᴛᴇʀᴀ..?`",
         f"`Me:  ᴍᴇ ʜᴜɴ ᴛᴇʀᴀ` {DEFAULTUSER} ,`ᴍᴜᴛʜᴇ    ᴇᴋ ʀᴀɴᴅɪ ᴋɪ ɢᴀᴀɴᴅ🍃 ᴋɪ ɢᴀɴᴅ ᴍᴀʀɴɪ ʜᴀɪ..😁😁`",
         "`User Authorised.`",
         "`Calling ㅤ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃`  `At +916969696969`",
         "`Private  Call Connected...`",
         "`Me:ʜᴇʟʟᴏ ᴍᴄ, ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃...ᴛᴇʀɪ ᴍᴀ ᴋɪ ᴄʜᴜᴛ...🤣🤣😂.`",
-        "ㅤ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃 :ᴏᴋᴀʏ sɪʀ ʙᴜᴛ ᴘᴇʜʟᴇ #_ᴀʟᴘʜᴀ ᴋᴀ ʙᴇᴛᴀ ᴋᴏɴ ʜᴀɪ ᴛᴜ?...😎`",
+        "ㅤ ʀᴀɴᴅɪ ᴋᴀ ᴘɪʟʟᴀ🍃 :ᴏᴋᴀʏ sɪʀ ʙᴜᴛ ᴘᴇʜʟᴇ #_➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴋᴀ ʙᴇᴛᴀ ᴋᴏɴ ʜᴀɪ ᴛᴜ?...😎`",
         f"`ᴍᴇ: ᴀʙᴇ ᴢʜᴀᴛᴜ, ɪ ᴀᴍ` {DEFAULTUSER} ",
-        "`ㅤ ᴀʟᴘʜᴀ🍃 : ᴀʙᴇ ғᴀᴛᴇ ʜᴜʏᴇ ᴄᴏɴᴅᴀᴍ ᴋᴇ ɴᴀᴛɪᴊᴇ...🤣🤣\nʙsᴅᴋᴇ ɢʜᴀʀ ᴍᴇ ɢʜᴜsᴋᴇ ᴛᴇʀɪ ᴀᴍᴍᴀ ʙᴇʜᴇɴ ᴋᴀ ʀᴇᴘ ᴋᴀʀᴅᴜɴɢᴀ ᴢʜᴀᴛᴜ😜.`",
-        "`ᴍᴇ: ᴀʙᴇ ʙsᴅᴋᴇ... ᴛᴇʟᴇɢʀᴀᴍ #_ᴀʟᴘʜᴀ ᴋᴏ ᴄʜᴀʟᴀ ʀᴀʜᴀ ᴋɪ #_ᴀʟᴘʜᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴏ ᴄʜᴀʟᴀ ʀᴀʜᴀ...?😜.`",
-        "`ㅤ ᴀʟᴘʜᴀ🍃 : ʙᴇᴛᴇ...!! ɴᴀᴀ ᴊᴀᴍɪɴ ᴘᴇ ɴᴀ ᴀᴀsᴍᴀɴ ᴘᴇ...😉😉 ᴛᴇʀɪ ᴍᴀʏʏᴀ ᴋᴏ ᴄʜʜᴏᴅᴜɴɢᴀ ᴍᴇ #_ᴀʟᴘʜᴀᴡᴏʀʟᴅ ᴋᴇ ʜᴀᴠᴇʟɪ ᴘᴇ...🥵🥵.`",
+        "`ㅤ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ : ᴀʙᴇ ғᴀᴛᴇ ʜᴜʏᴇ ᴄᴏɴᴅᴀᴍ ᴋᴇ ɴᴀᴛɪᴊᴇ...🤣🤣\nʙsᴅᴋᴇ ɢʜᴀʀ ᴍᴇ ɢʜᴜsᴋᴇ ᴛᴇʀɪ ᴀᴍᴍᴀ ʙᴇʜᴇɴ ᴋᴀ ʀᴇᴘ ᴋᴀʀᴅᴜɴɢᴀ ᴢʜᴀᴛᴜ😜.`",
+        "`ᴍᴇ: ᴀʙᴇ ʙsᴅᴋᴇ... ᴛᴇʟᴇɢʀᴀᴍ #_➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴋᴏ ᴄʜᴀʟᴀ ʀᴀʜᴀ ᴋɪ #_➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴛᴇʟᴇɢʀᴀᴍ ᴋᴏ ᴄʜᴀʟᴀ ʀᴀʜᴀ...?😜.`",
+        "`ㅤ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ : ʙᴇᴛᴇ...!! ɴᴀᴀ ᴊᴀᴍɪɴ ᴘᴇ ɴᴀ ᴀᴀsᴍᴀɴ ᴘᴇ...😉😉 ᴛᴇʀɪ ᴍᴀʏʏᴀ ᴋᴏ ᴄʜʜᴏᴅᴜɴɢᴀ ᴍᴇ #_➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴋᴇ ʜᴀᴠᴇʟɪ ᴘᴇ...🥵🥵.`",
         "`ᴍᴇ: ʙʜᴀɪ...ʏᴀᴀʀ ᴍᴇʀɪ ɢᴀᴀɴᴅ ᴍᴀʀᴏ ʙᴜᴛ ᴍᴜᴊʜᴇ ᴍᴀғ ᴋᴀʀᴏ...🤯`",
-        "`ㅤ ᴀʟᴘʜᴀ🍃 : ʜɪʜɪʜɪ... ʏᴇ ʜᴜɪ ɴᴀ ʙᴀᴀᴛ....😁😁\nᴄʜᴀʟ ᴀᴀʙ ᴀᴀᴘɴɪ ʀᴀɴᴅɪ ᴍᴀʏʏᴀ ᴋᴏ #_ᴀʟᴘʜᴀᴡᴏʀʟᴅ ᴋᴇ ᴠᴄ ᴘᴇ ʙᴜʟᴀ ᴋᴇ ʟᴏᴠᴇ ᴜ ʙᴏʟɴᴇ  ᴋᴏ ʙᴏʟ😛😛.`",
+        "`ㅤ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ : ʜɪʜɪʜɪ... ʏᴇ ʜᴜɪ ɴᴀ ʙᴀᴀᴛ....😁😁\nᴄʜᴀʟ ᴀᴀʙ ᴀᴀᴘɴɪ ʀᴀɴᴅɪ ᴍᴀʏʏᴀ ᴋᴏ #_➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴋᴇ ᴠᴄ ᴘᴇ ʙᴜʟᴀ ᴋᴇ ʟᴏᴠᴇ ᴜ ʙᴏʟɴᴇ  ᴋᴏ ʙᴏʟ😛😛.`",
         "`ᴍᴇ: ʙʜᴀɪ ᴘʟᴢ ɢᴀʟɪ ᴍᴛ ᴅᴏ😥.`",
-        "`ㅤ ᴀʟᴘʜᴀ🍃 : ᴛᴏ #_ʀᴀᴜsʜᴀɴ ᴋᴏ ʙᴀᴀᴘ ʙᴏʟ ᴀᴜʀ...ᴄʜᴀʟ ʙʜᴀɢ ʏᴀʜᴀ sᴇ ᴍᴄ..ʙsᴅᴋᴇ ᴋᴇ ᴘʜɪʀ ᴄᴀʟʟ ᴋɪʏᴀ ᴛᴏ #_ᴀʟᴘʜᴀᴡᴏʀʟᴅ ᴋɪ ᴠᴄ ᴘᴇ ᴛᴇʀᴇ ʙᴀᴀᴘ ᴋɪ ᴄʜᴜᴛ ᴍᴀʀᴜɴɢᴀ..🤣🤣  \n🙈𝐓ɢ 𝐏ᴇ 𝐑ᴇʜɴᴀ 𝐇ᴀɪ 𝐓ᴏ🧐 ᴀʟᴘʜᴀ 𝐊ᴏ 𝐁ᴀᴀᴘ💞ᴋᴀʜɴᴀ ʜᴀɪ🤪 @ll_ALPHA_BABY_lll👻 :)`",
-        "`ᴘʀɪᴠᴀᴛᴇ ᴄᴀʟʟ ᴅɪsᴄᴏɴɴᴇᴄᴛᴇᴅ....ᴊᴏʀ sᴇ ʙᴏʟᴏ ᴀʟᴘʜᴀ ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ🤣🤣🤣`",
+        "`ㅤ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ : ᴛᴏ #_➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴋᴏ ʙᴀᴀᴘ ʙᴏʟ ᴀᴜʀ...ᴄʜᴀʟ ʙʜᴀɢ ʏᴀʜᴀ sᴇ ᴍᴄ..ʙsᴅᴋᴇ ᴋᴇ ᴘʜɪʀ ᴄᴀʟʟ ᴋɪʏᴀ ᴛᴏ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴋɪ ᴠᴄ ᴘᴇ ᴛᴇʀᴇ ʙᴀᴀᴘ ᴋɪ ᴄʜᴜᴛ ᴍᴀʀᴜɴɢᴀ..🤣🤣  \n🙈𝐓ɢ 𝐏ᴇ 𝐑ᴇʜɴᴀ 𝐇ᴀɪ 𝐓ᴏ🧐 ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ 𝐊ᴏ 𝐁ᴀᴀᴘ💞ᴋᴀʜɴᴀ ʜᴀɪ🤪 @X1OWNER👻 :)`",
+        "`ᴘʀɪᴠᴀᴛᴇ ᴄᴀʟʟ ᴅɪsᴄᴏɴɴᴇᴄᴛᴇᴅ....ᴊᴏʀ sᴇ ʙᴏʟᴏ ➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ🤣🤣🤣`",
     ] 
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
@@ -319,7 +319,7 @@ async def gagahkah(client: Client, message: Message):
         "What The",
         "What The F",
         "What The F Brah",
-        "[𝗪𝗵𝗮𝘁 𝗧𝗵𝗲 𝗙 𝗕𝗿𝗮𝗵](https://telegra.ph//file/f3b760e4a99340d331f9b.jpg)",
+        "[𝗪𝗵𝗮𝘁 𝗧𝗵𝗲 𝗙 𝗕𝗿𝗮𝗵](https://files.catbox.moe/cuvedd.jpg)",
     ]
     for i in animation_ttl:
 
@@ -342,7 +342,7 @@ async def gkahgagw(client: Client, message: Message):
         "⬜⬜⬛⬜⬜\n⬜⬜⬛⬜⬜\n⬜⬜🔴⬜⬜",
         "⬜⬜⬛⬜⬜\n⬜⬛⬜⬜⬜\n🔴⬜⬜⬜⬜",
         "🔴⬛⬛⬜⬜\n⬜⬜⬜⬜⬜\n⬜⬜⬜⬜⬜",
-        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [ᴀʟᴘʜᴀ ʙᴀᴀᴘ](https://t.me/ll_ALPHA_BABY_lll) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
+        "⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜\n⬜  [ᴀʟᴘʜᴀ ʙᴀᴀᴘ](https://t.me/X1OWNER) ⬜\n⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜",
     ]
     if message.forward_from:
         return
@@ -398,7 +398,7 @@ async def gajjajay(client: Client, message: Message):
     await asyncio.sleep(0.3)
     await message.edit("🔥🔥🔥")
     await asyncio.sleep(0.3)
-    await message.edit("EVERyBOdy iZ GangSTur UNtIL #_ᴀʟᴘʜᴀ ArRivE 🔥🔥🔥")
+    await message.edit("EVERyBOdy iZ GangSTur UNtIL #_➻ ⏤͟͞ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼⏤͟͞ ┈➤ ⌯ ❰ #𝙇𝙊𝙍𝘿 ❱ ArRivE 🔥🔥🔥")
 
 
 @Client.on_message(filters.command("charging", ".") & filters.me)
@@ -539,7 +539,7 @@ async def hak(client: Client, message: Message):
     await message.edit_text("Hacking complete!\nUploading file...")
     await asyncio.sleep(2)
     await message.edit_text(
-        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝐀𝐋𝐏𝐇𝐀](https://t.me/ll_ALPHA_BABY_lll)"
+        "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12` 𝐅𝐎𝐑 𝐑𝐄𝐌𝐎𝐕𝐄 𝐌𝐄𝐄𝐓 𝐌𝐘 [𝐎𝐖𝐍𝐄𝐑 𝙆𝙄𝙍𝙈𝘼𝘿𝘼](https://t.me/X1OWNER)"
     )
 
 
@@ -856,7 +856,7 @@ async def helikopter(client: Client, message: Message):
         "▬▬▬.◙.▬▬▬ \n"
         "═▂▄▄▓▄▄▂ \n"
         "◢◤ █▀▀████▄▄▄▄◢◤ \n"
-        "█▄ █ █▄ ███ɪɢ-ᴋɪɴɢ_ʀᴀᴜsʜᴀɴ_02▀▀▀▀╬ \n"
+        "█▄ █ █▄ ███X1OWNER▀▀▀▀╬ \n"
         "◥█████◤ \n"
         "══╩══╩══ \n"
         "╬═╬ \n"
@@ -865,7 +865,7 @@ async def helikopter(client: Client, message: Message):
         "╬═╬ \n"
         "╬═╬ \n"
         "╬═╬ \n"
-        "╬═╬ ʜᴇʟʟᴏ ʙᴀʙʏ ɪ ᴀᴍ ʀᴀᴜsʜᴀɴ:) \n"
+        "╬═╬ ʜᴇʟʟᴏ ʙᴀʙʏ ɪ ᴀᴍ JOD:) \n"
         "╬═╬☻/ \n"
         "╬═╬/▌ \n"
         "╬═╬/ \\ \n",
@@ -884,7 +884,7 @@ async def dornembak(client: Client, message: Message):
 async def ngebundir(client: Client, message: Message):
     await edit_or_reply(
         message,
-        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_4sᴛ sᴇ ᴘᴀɴɢᴀ ʟɪʏᴀ...ɪsʟɪʏᴇ ʙᴀʀʙᴀᴅ ᴋᴀʀ ᴅɪʏᴀ ᴍᴜᴊʜᴇ ᴀʟᴘʜᴀ ʙᴀᴀᴘ ɴᴇ`          \n　　　　　|"
+        "`ᴋᴜᴄʜ ɴᴀ ʙʀᴏ..ʙs #_4sᴛ sᴇ ᴘᴀɴɢᴀ ʟɪʏᴀ...ɪsʟɪʏᴇ ʙᴀʀʙᴀᴅ ᴋᴀʀ ᴅɪʏᴀ ᴍᴜᴊʜᴇ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼 ʙᴀᴀᴘ ɴᴇ`          \n　　　　　|"
         "\n　　　　　| \n"
         "　　　　　| \n"
         "　　　　　| \n"
@@ -909,7 +909,7 @@ async def awikwok(client: Client, message: Message):
         "──▄▀█▄▄▄─────▄▀█▄▄▄\n"
         "▄▀──█▄▄──────█─█▄▄\n"
         "─▄▄▄▀──▀▄───▄▄▄▀──▀▄\n"
-        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ᴍᴄ😥😥.. ɢᴀᴀʟɪ ɴᴀ ᴅᴇ ᴠᴀʀɴᴀ ʀᴀᴜsʜᴀɴ ᴛᴇʀɪ ɢ**ᴅ ᴍᴀᴀʀ ʟᴇɢᴀ.👻`",
+        "─▀───────▀▀─▀───────▀▀\n`ɴɪᴋᴀʟ ᴍᴄ😥😥.. ɢᴀᴀʟɪ ɴᴀ ᴅᴇ ᴠᴀʀɴᴀ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼 ᴛᴇʀɪ ɢ**ᴅ ᴍᴀᴀʀ ʟᴇɢᴀ.👻`",
     )
 
 
@@ -924,8 +924,8 @@ async def ysaja(client: Client, message: Message):
         "‡‡‡‡‡‡‡‡‡█‡‡‡‡‡‡█\n"
         "██████▄▄█‡‡‡‡‡‡████████▄\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡💘#_ʀᴀᴜsʜᴀɴ-ᴏᴘ👻‡‡‡‡‡‡‡‡█\n"
-        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ 𝗔𝗟𝗣𝗛𝗔🌺‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡💘#𝙆𝙄𝙍𝙈𝘼𝘿𝘼👻‡‡‡‡‡‡‡‡█\n"
+        "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡💗ʙʏ 𝙆𝙄𝙍𝙈𝘼𝘿𝘼🌺‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡‡█\n"
         "▓▓▓▓▓▓█████‡‡‡‡‡‡‡‡‡‡‡‡██\n"
@@ -939,7 +939,7 @@ async def tank(client: Client, message: Message):
         message,
         "█۞███████]▄▄▄▄▄▄▄▄▄▄▃ \n"
         "▂▄▅█████████▅▄▃▂…\n"
-        "[████ ᴀʟᴘʜᴀ🔥████████]\n"
+        "[████𝙆𝙄𝙍𝙈𝘼𝘿𝘼████████]\n"
         "◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤\n",
     )
 
@@ -949,7 +949,7 @@ async def babi(client: Client, message: Message):
     await edit_or_reply(
         message,
         "┈┈┏━╮╭━┓┈╭━━━━╮\n"
-        "┈┈┃┏┗┛┓┃╭┫@ll_ALPHA_BABY_lll ┃\n"
+        "┈┈┃┏┗┛┓┃╭┫𝙆𝙄𝙍𝙈𝘼𝘿𝘼 ┃\n"
         "┈┈╰┓▋▋┏╯╯╰━━━━╯\n"
         "┈╭━┻╮╲┗━━━━╮╭╮┈\n"
         "┈┃▎▎┃╲╲╲╲╲╲┣━╯┈\n"
