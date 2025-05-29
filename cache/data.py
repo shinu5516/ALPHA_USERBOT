@@ -5,7 +5,7 @@ RAID = [
 ]
 
 
-GRP = "@HUNTERMAFIYA"
+GRP = "@NLTRIDE"
 
 GROUP = [-1002643333364]
 
